@@ -4,6 +4,10 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
 }
+
+#cabecera{
+    background: #33a;
+}
 #container{
     width: 70%;
     padding: 1em;    
